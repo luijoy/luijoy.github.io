@@ -39,8 +39,10 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    color: #E5E5EA;
 }
 
 ul.posts li {
     list-style: none;
+    color: #E5E5EA;
 }
