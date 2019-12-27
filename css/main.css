@@ -20,7 +20,7 @@ a {
 }
 a:hover {
     text-decoration-line: underline;
-    text-decoration-style: wavy;
+    color: #27845A;
 }
 h1 {
     font-size: 3em;
