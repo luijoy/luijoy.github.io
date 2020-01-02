@@ -38,6 +38,10 @@ p {
 footer {
     border-top: 2px solid #AFBED1;
     font-size: .8em;
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    width: calc(100% - 20px);
 }
 
 ul.posts { 
