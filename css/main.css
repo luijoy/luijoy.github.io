@@ -2,8 +2,10 @@ body {
     margin: 60px auto;
     width: 45%;
     background-color: #1C1C1E;
-    margin-top: 80px;
-    margin-bottom: 60vh;
+}
+container {
+     margin-top: 80px;
+     margin-bottom: 60vh;   
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
