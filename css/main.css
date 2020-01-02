@@ -39,7 +39,7 @@ footer {
     border-top: 2px solid #AFBED1;
     font-size: .8em;
     position: fixed;
-    bottom: 10px;
+    bottom: 20px;
     width: calc(45% - 10px)
 }
 
