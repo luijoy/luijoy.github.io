@@ -1,51 +1,60 @@
 body {
     margin: 60px auto;
-    width: 45%;
+    width: 60%;
     background-color: #1C1C1E;
 }
+
 container {
-     margin-top: 80px;
-     margin-bottom: 60vh;   
+    margin-top: 80px;
+    margin-bottom: 60vh;
 }
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+
+nav ul,
+footer ul {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
     color: #3CCF8D;
 }
-nav ul li, footer ul li {
+
+nav ul li,
+footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: #3CCF8D;
 }
+
 a:hover {
     color: #37BD81;
 }
+
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     color: #FFFFFF;
 }
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #E5E5EA;
 }
+
 footer {
     border-top: 2px solid #AFBED1;
     font-size: .8em;
-    position: fixed;
-    bottom: 10px;
-    width: calc(45% - 10px);
+    width: calc(100% - 10px);
     background-color: #1C1C1E;
+    margin-top: 30%;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
     color: #E5E5EA;
 }
@@ -53,4 +62,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
     color: #E5E5EA;
+}
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
 }
