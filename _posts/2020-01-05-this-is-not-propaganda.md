@@ -1,4 +1,4 @@
-# Week 1 \\ This Is Not Propaganda: Adventures in the War Against Reality (Peter Pomerantsev)
+Week 1
 
 I enjoyed *This Is Not Propaganda* by Peter Pomerantsev, it equipped me with better concepts to understand our current media and political landscape. I would have liked clearer chapters and stories, the book is instead separated into a handful of parts and hops between places and people suddenly. I also was hanging out for some more thorough high level analysis throughout, unfortunately this is most saved for the end of the book. 
 
