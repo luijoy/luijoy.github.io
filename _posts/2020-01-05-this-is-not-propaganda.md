@@ -1,0 +1,51 @@
+# Week 1 \\ This Is Not Propaganda: Adventures in the War Against Reality (Peter Pomerantsev)
+
+I enjoyed *This Is Not Propaganda* by Peter Pomerantsev, it equipped me with better concepts to understand our current media and political landscape. I would have liked clearer chapters and stories, the book is instead separated into a handful of parts and hops between places and people suddenly. I also was hanging out for some more thorough high level analysis throughout, unfortunately this is most saved for the end of the book. 
+
+Nonetheless for anyone trying to get a handle on the world today and the politics we are living with in most Western nations, this is a worthwhile read that is likely to put some puzzle pieces in place. 
+
+Useful points, concepts or quotes that resonated with me:
+
+On conspiracy:
+
+> More importantly, conspiracy is a way to maintain control... surround the electorate with cynicism about everybody's motives that they lose faith in the possibility of an alternative.
+
+The concept of manufactured consensus:
+
+> "It is not the case that one online account changes someone's mind; it's that en masse they create an ersatz normality."
+
+The author quotes a Russian manual ('Information-Psychological War Operations: A Short Encyclopedia and Reference Guide'):
+
+> "The deployment of information weapons, it suggests, 'acts like an invisible radiation' upon its targets. 'The population doesn't even feel it is being acted upon. So the state doesn't switch on its self-defence mechanisms"
+
+The concept of information sovereignty:
+
+> Igor Ashmanov (outspoken public promoter of information war): 'If your ideology is imported... as with liberalism, then you are always playing to foreign rules, which are always being changed by someone else. You can always be called guilty of breaking the rules of democracy ... Ideology should be created inside a country, like operational systems, rockets, insulin and grain. Supported and defended by information sovereignty.'
+
+On the primacy of propaganda over actual military engagement in the information age (here I think it's much too soon to make this call!): 
+
+> Propaganda has always accompanied war, usually as a handmaiden to the actual fighting. But the information age means that this equation has been flipped: military operations are now handmaidens to the more important information effect.
+
+Information based war certainly scales much more easily than kinetic traditional war. 
+
+On 'post-truth' politics:
+
+> During glasnost, it seemed like the truth would set everybody free. Dictators appeared so afraid of the truth they had it suppressed. But something drastic has gone wrong. We have access to more information and evidence than ever, but facts seem to have lost their power. There is nothing new in politicians lying, but what seems novel is that they seem to be making a thing out of showing that they don't care about whether they tell the truth or not.
+
+On the journalistic norm of impartiality and objectivity typically upheld by organisations such as the BBC: 
+
+> ... the attacks are not just on the BBC's impartiality and objectivity, but on the very idea that impartiality and objectivity can exist at all.
+
+Widespread cynicism and a highly fractured society distributed neatly into hermetically sealed information silos would seem to be the end of large news organisations that present news to a whole nation such as the BBC. Who will their audience be? 
+
+On facts:
+
+> ... though facts can be unpleasant, they are useful. You especially need them if you are constructing something in the real world. There are no post-truth moments if you are building a bridge...
+
+On the myth of the humiliated nation:
+
+> Rather than an alternative, China seemed to provide another variant of what I had encountered in the US and Russia, peddling a nostalgia for a greatness before the 'century of humiliations', much like Putin promised to 'bring Russia off its knees' and Trump to 'Make America Great Again'.
+
+The antidote to many of the ills presented in the book, according to the author,  is to maintain and develop a flexible identity. To not be defined by one identity, but many. To have the willingness to re-imagine yourself over and over. 
+
+> The real you will emerge in the collisions between them.
